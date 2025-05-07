@@ -4,6 +4,9 @@
 
 Welcome to **CitizenPlus** – a global civic issue reporting app built with React + Supabase + Resend API + DeepSeek LLM. We welcome contributions from developers, designers, and community activists who want to build for social impact.
 
+## 🤝 How to Test and Report Apps
+
+Test The App here https://citizenplus.netlify.app/ and report Issues in Issues Tab
 
 ### 🛠️ Local Development Setup
 
