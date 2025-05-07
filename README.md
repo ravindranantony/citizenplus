@@ -13,24 +13,23 @@ Test The App here https://citizenplus.netlify.app/ and report Issues in Issues T
 To contribute locally:
 
 1. **Clone the repo**
-   ```bash
+   
+   bash
    git clone https://github.com/ravindranantony/citizenplus.git
    cd citizenplus
-````
 
-2. **Install dependencies**
 
-   ```bash
+3. **Install dependencies**
+
+   bash
    npm install
-   ```
+   
 
-3. **Run the development server**
+4. **Run the development server**
 
-   ```bash
+   bash
    npm run dev
-   ```
 
----
 
 ### 🚀 Contribution Guidelines
 
