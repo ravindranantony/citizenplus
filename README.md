@@ -76,6 +76,6 @@ To contribute locally:
 
 ### 🙏 Thank You
 
-By contributing, you're helping make local governments more accountable and empowering citizens globally 🌍
+By contributing, you're helping make local governments more accountable and empowering citizens globally 🌍 Created for Bolt Hackathon. 
 
 ```
